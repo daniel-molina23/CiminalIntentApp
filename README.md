@@ -13,7 +13,7 @@ Client Features
   * crime photo small display and camera button <coming soon>
 
 Programmer Features
----------
+----------
 * ListView fragment holder to view the list of crimes
 * Local Phone Database (currently version 2)
 * Fragments
